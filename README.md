@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project demonstrates an improvement made to an existing arm joint component used during my internship in Smart Methods Co. The goal was to enhance structural reliability and verify the upgrade using Finite Element Analysis (FEA) in SolidWorks Simulation.
+This is an improved design of an arm joint from my internship with Smart Methods Co, desgined and tested using SolidWorks.
 
 ## 🔬 Simulation Setup
 
